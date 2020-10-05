@@ -1,0 +1,31 @@
+body{
+    background: #2222;
+}
+.demo{
+    background: tomato;
+    color:#ffff;
+}
+#code{
+    border: 3px solid tomato;
+    
+}
+.text{
+    font-size: 16px;
+    border: 1px solid #f0f040; 
+    background-color: #fffff0; 
+    width: 100%;
+    /* padding: 4px;
+     margin: 5px;  */
+}
+.tab-content{
+    height:500px;
+}
+.tab-pane{
+    height: 500px;
+}
+button{
+    margin-bottom: 0;
+}
+html{
+    scroll-behavior: smooth;
+  }
